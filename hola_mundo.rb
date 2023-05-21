@@ -2,10 +2,10 @@
 
 #Creamos una función "hello_world"
 
-def hola_mundo #=> Sobre la sintaxis: el nombre de las funciones siempre debe empezar por minúscula
-	puts "Hola mundo"
+def hello_world #=> Sobre la sintaxis: el nombre de las funciones siempre debe empezar por minúscula
+	puts "Hello World"
 end 
 
 #Y la llamamos de esta forma
 
-hola_mundo
+hello_world
