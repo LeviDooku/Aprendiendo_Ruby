@@ -2,9 +2,7 @@
 
 Repositorio de pequeños y simples programas en Ruby.  
 
-La mayoría del código (al menos los primeros programas) está basado en el tutorial de la propia web de Ruby:  
-
-ruby-lang.org/en/documentation/quickstart/
+La mayoría del código (al menos los primeros programas) está basado en el [tutorial de la propia web de Ruby](https://www.ruby-lang.org/en/documentation/quickstart/) 
 
 Ruby es un lenguaje interpretado, por ello no se necesita compilador (a tomar por saco los makefiles por fin), para ejecutar un programa en la terminal se usa el comando `ruby nombre_del_archivo.rb`
 
