@@ -12,7 +12,8 @@ Ruby es un lenguaje interpretado, por ello no se necesita compilador, para ejecu
 
 ### **Lista de programas:**  
 
-- De la carpeta `Entrada_salida_de_datos`:
+- De la carpeta `Entrada_salida_de_datos`:  
+
 	- [`hola_mundo.rb`](Entrada_salida_de_datos/hola_mundo.rb): imprimir un "Hello World" en la terminal.  
 	- [`imprime_mensaje.rb`](Entrada_salida_de_datos/imprime_mensaje.rb): imprime un mensaje usando una función a la que se le pasa un parámetro, si no se le pasa, imprime uno por defecto.  
 	- [`imprime_mensaje_class.rb`](Entrada_salida_de_datos/imprime_mensaje_class.rb): introducción a las clases, se crea con distintos métodos para imprimir distintos mensajes.  
