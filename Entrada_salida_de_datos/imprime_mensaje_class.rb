@@ -11,6 +11,10 @@ class SaludarDespedirPersona #=> Sobre sintaxis: en las clases se debe empezar e
 		@nombre = nombre
 	end
 
+	#Mediante esta línea damos acceso a la modificación de la variable creada "nombre"
+
+	attr_accessor :nombre
+
 	#Métodos de la clase. La única diferencia es que no tienen parámetros (aunque podrían).
 
 	def saludar
@@ -54,4 +58,27 @@ persona_2.despedir
 salto_de_linea
 
 mundo.saludar
+
+salto_de_linea
+
+#Modificamos el nombre de la persona_1
+
+persona_1.nombre="Pablo"
+
+persona_1.saludar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
