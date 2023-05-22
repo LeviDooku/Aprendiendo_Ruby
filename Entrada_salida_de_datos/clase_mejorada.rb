@@ -125,7 +125,7 @@ if __FILE__ == $0
 
 	#Declaramos la variable "nombres" como nula
 
-	puts "MÉTODOS CON NOMBRES = NIL: "
+	puts "MÉTODOS CON NOMBRES (variable nula): "
 
 	salto_de_linea
 
