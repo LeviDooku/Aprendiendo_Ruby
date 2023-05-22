@@ -14,7 +14,7 @@ Ruby es un lenguaje interpretado, por ello no se necesita compilador, para ejecu
 
 - De la carpeta `Entrada_salida_de_datos`:  
 
-	- [`hola_mundo.rb`](Entrada_salida_de_datos/hola_mundo.rb): imprimir un "Hello World" en la terminal.  
+	- [`hola_mundo.rb`](Entrada_salida_de_datos/hola_mundo.rb): imprimir un "Hello World" en la terminal. CONCEPTOS USADOS: declaración de una función y llamada a la misma, flujo de salida en la terminal.  
 	- [`imprime_mensaje.rb`](Entrada_salida_de_datos/imprime_mensaje.rb): imprime un mensaje usando una función a la que se le pasa un parámetro, si no se le pasa, imprime uno por defecto.  
 	- [`imprime_mensaje_class.rb`](Entrada_salida_de_datos/imprime_mensaje_class.rb): introducción a las clases, se crea con distintos métodos para imprimir distintos mensajes.  
 	- [`clase_mejorada.rb`](Entrada_salida_de_datos/clase_mejorada.rb): una versión mejorada de la clase de `imprime_mensaje_class.rb`, los métodos son más detallados, usando condicionales, iterar sobre un array de nombre y la declaración del mismo.
