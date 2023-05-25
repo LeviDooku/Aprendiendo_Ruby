@@ -1,5 +1,8 @@
 #Pograma pa probar los distintos bucles, condicionales y declaración y uso de variables en Ruby
 
+#Usar métodos de la clase en los elementos de un array usando bucles
+
+
 class SaludarDespedirPersona
 
 	def initialize(nombre = "Mundo")
@@ -80,11 +83,15 @@ if __FILE__ == $0
 		salto_de_linea
 
 		for i in 0..(num_elementos-1)
+
 			nombre = array_nombres[i]
 			print "Se muestra nombre #{i+1}: "
 			print "#{nombre}"
 			salto_de_linea
+
 		end
+
+		#Para los arrays existe un método "inspect", más sencillo que usar bucles for.
 
 	else
 
