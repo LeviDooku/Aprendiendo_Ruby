@@ -1,1 +1,0 @@
-#Pograma pa probar los distintos bucles y condicionales en Ruby
